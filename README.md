@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Damjanv1
+-  Hi, I’m @Damjanv1
 - 👀 I’m interested in data analytics and data science. Currently interested in data sets around sports, epidemiology, sustainability and crypto markets
 - 🌱 I’m currently learning python and further improving my r
 - 💞️ I’m looking to collaborate on projects 
+- professionally I am head of the data analytics and reporting team at the Kindred Group 👋
 - 📫 How to reach me > best via Linkedin or email https://www.linkedin.com/in/damjan-vlastelica-9943541b/
 
 <!---
